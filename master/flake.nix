@@ -11,6 +11,7 @@
   inputs.src-atoz-master.ref   = "refs/heads/master";
   inputs.src-atoz-master.owner = "disruptek";
   inputs.src-atoz-master.repo  = "atoz";
+  inputs.src-atoz-master.dir   = "";
   inputs.src-atoz-master.type  = "github";
   
   inputs."sigv4".owner = "nim-nix-pkgs";
