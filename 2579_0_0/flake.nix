@@ -11,7 +11,6 @@
   inputs.src-atoz-2579_0_0.ref   = "refs/tags/2579.0.0";
   inputs.src-atoz-2579_0_0.owner = "disruptek";
   inputs.src-atoz-2579_0_0.repo  = "atoz";
-  inputs.src-atoz-2579_0_0.dir   = "";
   inputs.src-atoz-2579_0_0.type  = "github";
   
   inputs."sigv4".owner = "nim-nix-pkgs";
