@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 36b51b6244835b2a30d4bff2d681eb373e9afa4e hugosenari <hugosenari@gmail.com> 1656278252 -0300	clone: from github.com:nim-nix-pkgs/atoz.git
-36b51b6244835b2a30d4bff2d681eb373e9afa4e 80e0ed9b4aa1038581dcf91374075b4b9e2869e2 hugosenari <hugosenari@gmail.com> 1656302640 -0300	commit: feat(nimpkgs): remove lock
-80e0ed9b4aa1038581dcf91374075b4b9e2869e2 162703eac11219da0bfce31eacddf2f03f5fd54f hugosenari <hugosenari@gmail.com> 1656748178 -0300	commit: feat(nimpkgs): remove lock
-162703eac11219da0bfce31eacddf2f03f5fd54f 05cf830017318eed08c4b5bbebe4a50c5040815d hugosenari <hugosenari@gmail.com> 1657154384 -0300	commit: feat(nimpkgs): remove lock
-05cf830017318eed08c4b5bbebe4a50c5040815d f31cbc65a491ffd68b0f89190d0ea6fac92e431b hugosenari <hugosenari@gmail.com> 1658015176 -0300	commit: chore: re index atoz
-f31cbc65a491ffd68b0f89190d0ea6fac92e431b 6340120a470bc188847f7970388dce26c5bf03d8 hugosenari <hugosenari@gmail.com> 1658175239 -0300	commit: chore: re index atoz
-6340120a470bc188847f7970388dce26c5bf03d8 8dba69ce5d756a126a69c8a04b2dc00dad6ea41c hugosenari <hugosenari@gmail.com> 1658203562 -0300	commit: feat(nimpkgs): remove lock
-8dba69ce5d756a126a69c8a04b2dc00dad6ea41c b83c8f07c24723a1e7d1f0f9d3de91f1161aeff2 hugosenari <hugosenari@gmail.com> 1658208653 -0300	commit: feat(nimpkgs): remove lock
